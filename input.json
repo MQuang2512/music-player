@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Illuminate",
+        "artist": "Shawn Mendes",
+        "artwork": "images/illuminate.jpg",
+        "tracks": [
+            {
+                "name": "Mercy",
+                "location": "musics/mercy.mp3"
+            },
+            {
+                "name": "Treat You Better",
+                "location": "musics/treat_you_better.mp3"
+            },
+            {
+                "name": "Patience",
+                "location": "musics/patience.mp3"
+            },
+            {
+                "name": "Bad Reputation",
+                "location": "musics/bad_reputation.mp3"
+            },
+            {
+                "name": "Understand",
+                "location": "musics/understand.mp3"
+            },
+            {
+                "name": "Honest",
+                "location": "musics/honest.mp3"
+            }
+        ]
+    },
+    {
+        "title": "Witness",
+        "artist": "Katy Perry",
+        "artwork": "images/witness.jpg",
+        "tracks": [
+            {
+                "name": "Roulette",
+                "location": "musics/roulette.mp3"
+            },
+            {
+                "name": "Mind Maze",
+                "location": "musics/mind_maze.mp3"
+            },
+            {
+                "name": "Tsunami",
+                "location": "musics/tsunami.mp3"
+            },
+            {
+                "name": "Miss You More",
+                "location": "musics/miss_you_more.mp3"
+            }
+        ]
+    },
+    {
+        "title": "Bigger Love",
+        "artist": "John Legend",
+        "artwork": "images/bigger_love.jpg",
+        "tracks": [
+            {
+                "name": "Wild",
+                "location": "musics/wild.mp3"
+            },
+            {
+                "name": "Slow Cooker",
+                "location": "musics/slow_cooker.mp3"
+            },
+            {
+                "name": "Focused",
+                "location": "musics/focused.mp3"
+            },
+            {
+                "name": "Remember Us",
+                "location": "musics/remember_us.mp3"
+            },
+            {
+                "name": "Never Break",
+                "location": "musics/never_break.mp3"
+            }
+        ]
+    },
+    {
+        "title": "Nine Track Mind",
+        "artist": "Charlie Puth",
+        "artwork": "images/nine_track_mind.jpg",
+        "tracks": [
+            {
+                "name": "One Call Away",
+                "location": "musics/one_call_away.mp3"
+            },
+            {
+                "name": "Dangerously",
+                "location": "musics/dangerously.mp3"
+            },
+            {
+                "name": "We Don't Talk Anymore",
+                "location": "musics/we_dont_talk_anymore.mp3"
+            }
+        ]
+    }
+]
